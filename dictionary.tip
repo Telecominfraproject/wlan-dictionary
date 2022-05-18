@@ -19,13 +19,13 @@
 # dictionary.tip
 # 
 
-VENDOR		TIP			58888
+VENDOR      TIP     58888
 
 #    Standard attribute
 #
 BEGIN-VENDOR	TIP
 
-ATTRIBUTE	TIP-serial		    	1	string
+ATTRIBUTE   TIP-serial              1	string
 ATTRIBUTE   TIP-AAAipaddr           2   ipaddr
 ATTRIBUTE   TIP-AAAipv6addr         3   ipv6addr
 
